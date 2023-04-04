@@ -1,0 +1,260 @@
+.section1{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 150px;
+    /* background-color: #FFA751; */
+    
+}
+
+#text1{
+    /* background-color: brown; */
+    position: absolute;
+    top: 164px;
+    left: 94px;
+
+}
+#text1 h1{
+    font-weight: bold;
+    font-size: 72px;
+    width: 352px;
+    height: 84px;
+}
+#text1 h5{
+    /* font-weight: bold; */
+    font-size: 18px;
+    position: absolute;
+    /* left: 99px; */
+    top: 116.84;
+    padding-top: 5px;
+    color: #2C2C2C;
+    height: 40px;
+}
+#text2{
+    background-color: #D1D1D1;
+    position: absolute;
+    top: 671px;
+    left: 0px;
+    height: 233px;
+    width: 318px;
+    border-radius: 0px 10px 10px 0px;
+
+}
+#text2 h4{
+    font-size: 20px;
+    position: absolute;
+    top: 17px;
+    left: 79px;
+    /* font-weight: lighter; */
+}
+#appraise{
+    font-size: 22px;
+    position: absolute;
+    top: 71px;
+    left: 76px;
+    color: #FFFFFF;
+    text-align: center;
+    /* padding-top: 16px;
+    padding-left: 29px; */
+    background-color: #7CC00B;
+    opacity: 0.8;
+    width: 221px;
+    height: 52px;
+    border-radius: 15px;
+    border: 1px solid #7CC00B;
+}
+#text2 h6{
+    font-size: 14px;
+    position: absolute;
+    top: 135px;
+    left: 77px;
+    font-weight: lighter;
+}
+#learnmore{
+    font-size: 12px;
+    position: absolute;
+    top: 192px;
+    left: 195px;
+    color: #FFFFFF;
+    text-align: center;
+    /* padding-top: 16px;
+    padding-left: 29px; */
+    background-color: #7CC00B;
+    width: 98px;
+    height: 23px;
+    border-radius: 20px;
+    border: 1px solid #7CC00B;
+    opacity: 0.8;
+}
+.cube{
+    position: absolute;
+    /* background-color: aqua; */
+    height: 460px;
+    width: 522px;
+    left: 730px;
+    top: 20px;
+}
+.arrow{
+    position: absolute;
+    top: 452px;
+    left: 646px;
+    color: #A9A9A9;
+    width: 80px;
+}
+#text3{
+    /* background-color: #f70b0b; */
+    position: absolute;
+    top: 671px;
+    left: 394px;
+    height: 233px;
+    width: 885px;
+    /* border-radius: 0px 10px 10px 0px; */
+
+}
+.circle{
+    background-color: #B2CE82;
+    height: 233px;
+    width: 233px;
+    /* position: absolute;
+    left: 119px; */
+    border-radius:50%;
+}
+.buynowprice{
+    position: absolute;
+    top: 35px;
+    left: 56px;
+    
+}
+.buynowprice h1{
+    font-weight: bold;
+    font-size: 18px;
+    width: 134px;
+    height: 20px;
+}
+.buynowprice h2{
+    font-weight: bold;
+    font-size: 32px;
+    width: 123px;
+    height: 20px;
+    position: absolute;
+    left: -5px;
+    top: 26px;
+}
+.circle button{
+    position: absolute;
+    top: 120px;
+    left: 35px;
+    width: 167px;
+    height: 63px;
+    color: #FFFFFF;
+    background-color: #0A84FF;
+    border-radius: 15px;
+    border: none;
+    font-size: 28px;    
+    line-height: 20px;
+    text-align: center;
+}
+.rectangle{
+    background-color: #B2CE82;
+    height: 102px;
+    width: 766px;
+    position: absolute;
+    left: 119px;
+    top: 0px;
+    border-radius: 0 15px 15px 0;
+}
+.makeoffer{
+    position: absolute;
+    left: 146px;
+    top: 35px;
+}
+.makeoffer h1{
+    font-size: 18px;
+    font-weight: bold;
+}
+.makeoffer h4{
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.offer{
+    position: absolute;
+    left: 453px;
+    top: 19px;
+    border-radius: 15px;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    width: 300px;
+    height: 63px;
+}
+.offer h2{
+    position: absolute;
+    top: 21px;
+    left: 24px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.offer button{
+    position: absolute;
+    top: 5px;
+    left: 131px;
+    width: 161px;
+    height: 54px;
+    color: #FFFFFF;
+    background-color: #0A84FF;
+    border-radius: 15px;
+    border: none;
+    font-size: 28px;
+}
+
+.category{
+    position: absolute;
+    top: 120px;
+    left: 267px;
+}
+.category h1{
+    color: #504F77;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.category h3{
+    color: #6D6D6D;
+    font-size: 13px;
+    font-weight: lighter;
+}
+.socialicon{
+    position: absolute;
+    left: 557px;
+    top: 120px;
+    /* background-color: #000000; */
+    /* display: inline; */
+}
+.socialicon h1{
+    color: #676767;
+    font-weight: 500;
+    font-size: 20px;
+}
+#fb{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: -30px; 
+    left: 150px;
+      
+}
+#twitter{
+    height: 34.29px;
+    width: 40px;
+    position: relative;
+    top: -30px;
+    left: 165px;
+}
+#linkedin{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: -30px;
+    left: 180px;
+}
+
